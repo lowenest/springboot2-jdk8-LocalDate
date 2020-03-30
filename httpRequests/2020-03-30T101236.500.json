@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-03-30T02:12:36.066+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Request processing failed; nested exception is java.lang.IllegalStateException: No primary or default constructor found for class java.time.LocalDateTime",
+  "path": "/dt/order3"
+}

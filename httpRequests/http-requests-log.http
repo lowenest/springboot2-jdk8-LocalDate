@@ -1,0 +1,150 @@
+GET http://localhost:8080/dt/ldt?lc=2019-12-22 13:44:55
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T103627.200.json
+
+###
+
+GET http://localhost:8080/dt/ld?lc=2019-12-22
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T103624.200.json
+
+###
+
+GET http://localhost:8080/dt/now
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T103621.200.json
+
+###
+
+GET http://localhost:8080/dt/ldt?lc=2019-12-22 13:44:55
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T102918.200.json
+
+###
+
+GET http://localhost:8080/dt/ld?lc=2019-12-22
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T102856.200.json
+
+###
+
+GET http://localhost:8080/dt/now
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T102853.200.json
+
+###
+
+POST http://localhost:8080/dt/order2?createTime=2020-03-30 09:44:58&createDate=2020-03-30
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "createTime": "2020-03-30 09:44:58",
+  "createDate": "2020-03-30"
+}
+
+<> 2020-03-30T102822.200.json
+
+###
+
+GET http://localhost:8080/dt/now
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T102014.200.json
+
+###
+
+GET http://localhost:8080/dt/order3?createTime=2020-03-30 09:44:58&createDate=2020-03-30
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-03-30T101452.200.json
+
+###
+
+GET http://localhost:8080/dt/order3?createTime=2020-03-30 09:44:58&createDate=2020-03-30
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "createTime": "2020-03-30 09:44:58",
+  "createDate": "2020-03-30"
+}
+
+<> 2020-03-30T101313.500.json
+
+###
+
+GET http://localhost:8080/dt/order3?createTime=2020-03-30 09:44:58&createDate=2020-03-30
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-03-30T101236.500.json
+
+###
+
+GET http://localhost:8080/dt/order
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101224.200.json
+
+###
+
+GET http://localhost:8080/dt/json-now?lc=2019-12-22 13:44:55
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101220.200.json
+
+###
+
+GET http://localhost:8080/dt/lt?lc=13:44:55
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101216.200.json
+
+###
+
+GET http://localhost:8080/dt/ldt?lc=2019-12-22 13:44:55
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101211.200.json
+
+###
+
+GET http://localhost:8080/dt/ld?lc=2019-12-22
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101206.200.json
+
+###
+
+GET http://localhost:8080/dt/now
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-30T101154.200.json
+
+###
+
